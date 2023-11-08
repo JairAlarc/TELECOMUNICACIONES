@@ -1,0 +1,17 @@
+Primero que todo buenas tardes, pido disculpas por la entrega del proyecto de esta manera
+la realidad he tenido muchos inconvenientes y trate de realizar una parte entregable, pero
+no demuestra todo mi potencial. 
+
+Quisiera explicarles es procesamiento de datos porque no tuve el tiempo para documentarlo 
+como es debido, sucede que los archivos y dataset que se obtuvieron para trabajar estan en
+un estado muy complejo de tratar, yo genere las funcione srequeridas para trabajar los
+documentos en provincias se repararon todos los datos acordes con procedimientos que muestran 
+un proceso impecable y complejo, podrán observar el documento data, en donde están todas las 
+transformaciones adecuadas para poder trabajar, se hizo la revisión de cada provincia por 
+columnas en los diferentes dataset, puede demostrarse la sfunciones empleadas para los 
+calculos y operaciones de las variasbles, adicional se dejo con los datos bien reparados, 
+de ese documento que es bastante largo se abrio uno nuevo generando y hacia el merged para
+trabajar en una solo archivo csv llamados ArchcivosListos, se trato de hacer una pequeña 
+muestra porque el tiempo no estaba acorde, se hizo la prsentación del archivo en powerbi
+con solo un KPI pero indicadores y graficas acordes a la presentación pero me disculpo porque
+no tuve tiempo. Doy muchas gracias por la atención pido disculpas de antemano. Bendiciones
