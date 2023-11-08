@@ -2,7 +2,7 @@
 
 
 
-![Imagen](https://github.com/JairAlarc/ProyectoDos/assets/118782518/ff65ec8a-957f-46d1-a089-4ca39cc741fb?width=400&height=400)
+![Imagen](https://github.com/JairAlarc/ProyectoDos/assets/118782518/ff65ec8a-957f-46d1-a089-4ca39cc741fb?width=200&height=400)
 
 
 
