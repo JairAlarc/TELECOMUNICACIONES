@@ -45,4 +45,4 @@ En base a los resultados del análisis, se recomiendan las siguientes acciones:
 
 Estas acciones permitirían a la empresa aprovechar las oportunidades de crecimiento del sector de las telecomunicaciones y mejorar la satisfacción del cliente.
 
-[Otros Archivos]([https://drive.google.com/drive/folders/1PqSMl8oYuUowlcf_dAQTN-l27UvkWFT2?usp=drive_link])
+[Otros Archivos](https://drive.google.com/drive/folders/1PqSMl8oYuUowlcf_dAQTN-l27UvkWFT2?usp=drive_link)
