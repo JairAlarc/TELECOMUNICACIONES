@@ -1,6 +1,5 @@
 # Proyecto Individual N2: Telecomunicaciones
 
-**Texto modificado**
 
 Las telecomunicaciones son un sector en constante evolución, que ha tenido un impacto significativo en la vida de las personas y las organizaciones. En Argentina, el sector se encuentra a la vanguardia del desarrollo mundial, con un alto nivel de penetración de internet y otros servicios de comunicación.
 
