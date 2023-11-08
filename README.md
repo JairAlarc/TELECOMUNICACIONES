@@ -1,5 +1,6 @@
 # Proyecto Individual N2: Telecomunicaciones
-
+![Imagen](imagen.png?width=100&height=100)
+![TELECOMUNICA](https://github.com/JairAlarc/ProyectoDos/assets/118782518/ff65ec8a-957f-46d1-a089-4ca39cc741fb)
 
 Las telecomunicaciones son un sector en constante evolución, que ha tenido un impacto significativo en la vida de las personas y las organizaciones. En Argentina, el sector se encuentra a la vanguardia del desarrollo mundial, con un alto nivel de penetración de internet y otros servicios de comunicación.
 
