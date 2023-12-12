@@ -14,7 +14,7 @@
 
 
 
-Las telecomunicaciones son un sector en constante evolución, que ha tenido un impacto significativo en la vida de las personas y las organizaciones. En Argentina, el sector se encuentra a la vanguardia del desarrollo mundial, con un alto nivel de penetración de internet y otros servicios de comunicación.
+Las telecomunicaciones son un sector en constante evolución, que ha tenido un impacto significativo en la vida de las personas y las organizaciones. En Argentina, el sector se encuentra a la vanguardia del desarrollo mundial, con un alto nivel de penetración de internet y otros servicios de comunicación :globe_with_meridians:.
 
 En este contexto, una empresa prestadora de servicios de telecomunicaciones encargó un análisis del comportamiento del sector a nivel nacional. El objetivo del análisis era identificar oportunidades de crecimiento y desarrollar soluciones personalizadas para los clientes.
 
