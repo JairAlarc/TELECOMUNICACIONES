@@ -5,7 +5,10 @@
 
 
 
-![Imagen](https://github.com/JairAlarc/ProyectoDos/assets/118782518/ff65ec8a-957f-46d1-a089-4ca39cc741fb?width=800&height=800)
+<p align="center">
+  <img src="https://github.com/JairAlarc/ProyectoDos/assets/118782518/ff65ec8a-957f-46d1-a089-4ca39cc741fb?width=800&height=800" alt="Imagen">
+</p>
+
 
 
 
