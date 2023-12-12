@@ -1,4 +1,5 @@
-# Proyecto Individual N2: Telecomunicaciones
+# <p align="center">PROYECTO INDIVIDUAL N2: TELECOMUNICACIONES</p>
+
 
 
 
