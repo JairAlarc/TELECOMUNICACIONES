@@ -31,19 +31,19 @@ En esta etapa, se definieron dos KPIs para medir el desempeño de la empresa en 
 Este KPIs se selecciono porque es relevante para el objetivos de la empresa.
 
 
-**Conclusiones**
+**Conclusiones :pushpin: :tada:**
+
 En base a los resultados del análisis, se recomiendan las siguientes acciones:
 
 Los resultados del análisis sugieren que la empresa tiene oportunidades de crecimiento en el sector de las telecomunicaciones. En particular, la empresa podría enfocarse en las provincias con menor acceso a los servicios de telecomunicaciones.
 Para mejorar la satisfacción del cliente, la empresa podría implementar acciones para mejorar la calidad del servicio y la atención al cliente.
 
-
 En base a los resultados del análisis, se recomiendan las siguientes acciones:
 
-* Desarrollar un plan de expansión para aumentar el acceso a internet en las provincias con menor penetración.
-* Implementar acciones para mejorar la calidad del servicio y la atención al cliente.
-* Actualización de la velocidad de internet en las provincias como también en tecnología, acorde a los estadares globales.
+* Desarrollar un plan de expansión para aumentar el acceso a internet en las provincias con menor penetración :tada:.
+* Implementar acciones para mejorar la calidad del servicio y la atención al cliente :tada:.
+* Actualización de la velocidad de internet en las provincias como también en tecnología, acorde a los estadares globales :tada:.
     
-Estas acciones permitirían a la empresa aprovechar las oportunidades de crecimiento del sector de las telecomunicaciones y mejorar la satisfacción del cliente.
+Estas acciones permitirían a la empresa aprovechar las oportunidades de crecimiento del sector de las telecomunicaciones y mejorar la satisfacción del cliente :partying_face:.
 
-[Otros Archivos](https://drive.google.com/drive/folders/1PqSMl8oYuUowlcf_dAQTN-l27UvkWFT2?usp=drive_link)
+[Documentos relacionados con los procesos generados](https://drive.google.com/drive/folders/1PqSMl8oYuUowlcf_dAQTN-l27UvkWFT2?usp=drive_link)
