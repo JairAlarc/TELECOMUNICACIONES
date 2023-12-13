@@ -20,7 +20,8 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones enca
 
 El análisis se llevó a cabo en dos etapas:
 
-**Etapa 1: Análisis exploratorio de datos :bar_chart: :page_facing_up:** [EDA](https://github.com/JairAlarc/ProyectoDos/blob/main/data.ipynb)
+**Etapa 1: [Análisis exploratorio de datos](https://github.com/JairAlarc/ProyectoDos/blob/main/data.ipynb) :bar_chart: :page_facing_up:**
+
 En esta etapa, se analizaron los datos disponibles para identificar tendencias y patrones. Se utilizaron diferentes tipos de gráficos para visualizar los datos y facilitar su interpretación.
 
 **Etapa 2: Desarrollo de [KPIs](https://github.com/JairAlarc/ProyectoDos/blob/main/Telecomunicaciones.pbix) :dart:**
