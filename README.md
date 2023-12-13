@@ -22,7 +22,7 @@ El análisis se llevó a cabo en dos etapas:
 
 **Etapa 1: [Análisis exploratorio de datos](https://github.com/JairAlarc/ProyectoDos/blob/main/data.ipynb) :bar_chart: :page_facing_up:**
 
-En esta etapa, se analizaron los datos disponibles para identificar tendencias y patrones. Se utilizaron diferentes tipos de gráficos para visualizar los datos y facilitar su interpretación.
+En esta etapa, se analizaron los datos disponibles para identificar [tendencias y patrones](https://github.com/JairAlarc/ProyectoDos/blob/main/ArchivosListos.ipynb). Se utilizaron diferentes tipos de gráficos para visualizar los datos y facilitar su interpretación.
 
 **Etapa 2: Desarrollo de [KPIs](https://github.com/JairAlarc/ProyectoDos/blob/main/Telecomunicaciones.pbix) :dart:**
 
