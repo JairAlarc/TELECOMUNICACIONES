@@ -20,7 +20,7 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones enca
 
 El análisis se llevó a cabo en dos etapas:
 
-**Etapa 1: Análisis exploratorio de datos :bar_chart: :page_facing_up:**
+**Etapa 1: Análisis exploratorio de datos :bar_chart: :page_facing_up:** [EDA](https://github.com/JairAlarc/ProyectoDos/blob/main/data.ipynb)
 En esta etapa, se analizaron los datos disponibles para identificar tendencias y patrones. Se utilizaron diferentes tipos de gráficos para visualizar los datos y facilitar su interpretación.
 
 **Etapa 2: Desarrollo de KPIs :dart:**
@@ -47,4 +47,3 @@ En base a los resultados del análisis, se recomiendan las siguientes acciones:
 Estas acciones permitirían a la empresa aprovechar las oportunidades de crecimiento del sector de las telecomunicaciones y mejorar la satisfacción del cliente :partying_face:.
 
 [Documentos relacionados con los procesos generados](https://drive.google.com/drive/folders/1PqSMl8oYuUowlcf_dAQTN-l27UvkWFT2?usp=drive_link)
-[ETL](https://drive.google.com/file/d/1ey9jMMO_9TI8hTO8trpg1A1JXgCQpr-z/view?usp=drive_link)
